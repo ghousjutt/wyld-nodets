@@ -1,0 +1,1 @@
+{"version":3,"file":"order.dto.js","sourceRoot":"","sources":["../../src/dto/order.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;AAAA,yCAA2B;AAEd,QAAA,SAAS,GAAG,GAAG,CAAC,MAAM,EAAE,CAAC,KAAK,CAAC,EAAE,CAAC,CAAC;AAEnC,QAAA,SAAS,GAAG,GAAG,CAAC,MAAM,EAAE,CAAC,KAAK,CAAC;IAC1C,OAAO,EAAE,GAAG,CAAC,MAAM,EAAE,CAAC,QAAQ,EAAE;CACjC,CAAC,CAAC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"checkout.dto.js","sourceRoot":"","sources":["../../src/dto/checkout.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;AAAA,yCAA2B;AAEd,QAAA,SAAS,GAAG,GAAG,CAAC,MAAM,EAAE,CAAC,KAAK,CAAC;IAC1C,KAAK,EAAE,GAAG,CAAC,MAAM,EAAE,CAAC,QAAQ,EAAE;IAC9B,MAAM,EAAE,GAAG,CAAC,MAAM,EAAE,CAAC,QAAQ,EAAE;CAChC,CAAC,CAAC"}
